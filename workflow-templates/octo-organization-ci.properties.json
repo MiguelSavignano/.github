@@ -1,7 +1,7 @@
 {
-  "name": "Octo Organization Workflow",
-  "description": "Octo Organization CI workflow template.",
-  "iconName": "example-icon",
+  "name": "npm-package",
+  "description": "Test, build and publish npm package.",
+  "iconName": "npm-logo",
   "categories": [
       "npm package"
   ],
